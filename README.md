@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Inserer-Pseudo
-- 👀 I’m interested in robotic
-- 🌱 I’m currently learning robotic
-- 💞️ I’m looking to collaborate on robotic
-- 📫 How to reach me : don't
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning robotics
+- 💞️ I’m looking to collaborate on robotics
+- 📫 How to reach me : just don't
 
 <!---
 Inserer-Pseudo/Inserer-Pseudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
