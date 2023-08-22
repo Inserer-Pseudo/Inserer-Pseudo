@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Inserer-Pseudo
-- 👀 I’m interested in robotics, AI and gadgets
 - 🌱 I’m currently learning industrial IT
-- 💞️ I’m looking to collaborate on ROS packages, URCAPS...
 - 📫 How to reach me : send a message through github
 
 <!---
